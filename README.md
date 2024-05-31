@@ -5,7 +5,7 @@
 ## 최근 릴리즈:
 | 일자 | 릴리즈 버젼 | 릴리즈정보 |
 |-----------|----------|-----------|
-| 24/5/31 | [SinkholeFinder분석64bit-240318pw.zip](https://github.com/GPRIsung/sinkholefinder/releases/download/v1.0.240318/SinkholeFinder.64bit-240318pw.zip, "Download 240318")|[릴리즈노트] (https://github.com/GPRIsung/sinkholefinder/releases/tag/v1.0.240318,"Release note240318") |
+| 24/5/31 | [SinkholeFinder분석64bit-240318pw.zip](https://github.com/GPRIsung/sinkholefinder/releases/download/v1.0.240318/SinkholeFinder.64bit-240318pw.zip, "Download 240318") | [릴리즈노트] (https://github.com/GPRIsung/sinkholefinder/releases/tag/v1.0.240318) |
 
 
 오른쪽의 Release에서 가장 최근 파일을 다운받으실 수있고,   
