@@ -2,7 +2,7 @@
 SinkholeFinder app related repo  
 SinkholeFinder release페이지 입니다.   
 최근 릴리즈:
-24/5/31 [SinkholeFinder분석64bit-240318pw.zip](https://github.com/GPRIsung/sinkholefinder/releases/download/v1.0.240318/SinkholeFinder.64bit-240318pw.zip, "Download 240318")
+24/5/31 [SinkholeFinder분석64bit-240318pw.zip](https://github.com/GPRIsung/sinkholefinder/releases/download/v1.0.240318/SinkholeFinder.64bit-240318pw.zip, "Download 240318")[릴리즈정보](https://github.com/GPRIsung/sinkholefinder/releases/tag/v1.0.240318,"Release note240318")
 
 
 오른쪽의 Release에서 가장 최근 파일을 다운받으실 수있고,   
