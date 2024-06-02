@@ -1,7 +1,5 @@
-
-![sinkholeFinder1024](https://github.com/GPRIsung/sinkholefinder/assets/56243175/03e2286a-9b56-4923-a538-d163c6bfb0e6)
-
 # sinkholefinder release 페이지
+![sinkholeFinder1024](https://github.com/GPRIsung/sinkholefinder/assets/56243175/03e2286a-9b56-4923-a538-d163c6bfb0e6)
 - 설명: SinkholeFinder app related repo  이성(주)에서 제작한 GPR신호 분석 소프트웨어 입니다. 
 - 실행환경: 윈도우10/11
 
