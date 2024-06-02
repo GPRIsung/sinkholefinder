@@ -9,7 +9,7 @@
 | 일자 | 릴리즈 버젼 | 릴리즈정보 |
 |-----------|----------|-----------|
 | 24/5/31 | [ SinkholeFinder분석64bit-240318pw.zip ]( https://github.com/GPRIsung/sinkholefinder/releases/download/v1.0.240318/SinkholeFinder.64bit-240318pw.zip) | [ 릴리즈노트240318 ]( https://github.com/GPRIsung/sinkholefinder/releases/tag/v1.0.240318) |
-| 22/2/16 | [ SinkholeFinder분석64bit-240318pw.zip ](https://github.com/GPRIsung/sinkholefinder/releases/download/v1.0.220316Axis/SinkholeFinder_Axis220316.zip)| [ 릴리즈노트220316 ]( https://github.com/GPRIsung/sinkholefinder/releases/tag/v1.0.220316Axis) |
+| 22/2/16 | [ SinkholeFinder_Axis220316.zip ](https://github.com/GPRIsung/sinkholefinder/releases/download/v1.0.220316Axis/SinkholeFinder_Axis220316.zip)| [ 릴리즈노트220316 ]( https://github.com/GPRIsung/sinkholefinder/releases/tag/v1.0.220316Axis) |
 
 - 오른쪽의 Releases에서 기존 실행파일들을 다운로드 받으실 수 있습니다.   
 - 최신버젼의 파일을 다운받으셔야 많은 버그가 패치된 버젼을 사용하실 수 있습니다.  
