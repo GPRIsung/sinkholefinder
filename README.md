@@ -6,8 +6,7 @@
 ### 최근 릴리즈:
 | 일자 | 릴리즈 버젼 | 릴리즈정보 |
 |-----------|----------|-----------|
-| 26/02/04 | [ SinkholeFinder64bit_260225.zip ]([https://github.com/GPRIsung/sinkholefinder/releases/download/v.1.0.260204/SinkholeFinder260204.zip) | [ 릴리즈노트260204 ]( 
-https://github.com/GPRIsung/sinkholefinder/releases/tag/v.1.0.260204) |   
+| 26/02/04 | [ SinkholeFinder64bit_260225.zip ]([https://github.com/GPRIsung/sinkholefinder/releases/download/v.1.0.260204/SinkholeFinder260204.zip) | [ 릴리즈노트260204 ]( https://github.com/GPRIsung/sinkholefinder/releases/tag/v.1.0.260204) |   
 | 25/4/07 | [ SinkholeFinder64bit_250407.zip ](https://github.com/GPRIsung/sinkholefinder/releases/download/v.1.0.250407/SinkholeFinder64bit_250407.zip)  | [ 릴리즈노트250407 ]( https://github.com/GPRIsung/sinkholefinder/releases/tag/v.1.0.250407) |    
 | 24/9/03 | [ SinkholeFinder.64bit_240903.zip ](https://github.com/GPRIsung/sinkholefinder/releases/download/v1.0.240903/SinkholeFinder.64bit_240903.zip)  | [ 릴리즈노트240903 ]( https://github.com/GPRIsung/sinkholefinder/releases/tag/v1.0.240903) |   
 | 24/6/27 | [ SinkholeFinder.64bit_240627.zip ](https://github.com/GPRIsung/sinkholefinder/releases/download/v1.0.240627/SinkholeFinder.64bit_240627.zip) | [ 릴리즈노트240627 ]( https://github.com/GPRIsung/sinkholefinder/releases/tag/v1.0.240627) |   
